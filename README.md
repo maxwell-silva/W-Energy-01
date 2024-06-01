@@ -82,6 +82,8 @@ After you just need to wait and check you azure account after process end
   - [10-app-tier](./infrastructure/azure/20-app-tier/) - APP Tier
   - [30-web-tier](./infrastructure/azure/30-web-tier/) - WEB Tier
 
+![image](./imgs/img01.jpeg)
+
 ### Cost Estimation
 
 Recomended:
