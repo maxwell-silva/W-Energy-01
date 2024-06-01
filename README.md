@@ -41,7 +41,7 @@ Task:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/maxwell-silva/W-Energy-01.git
+   git clone https://github.com/maxwell-silva/w-energy-01.git
    cd infrastructure/azure
    ```
 
